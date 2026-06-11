@@ -109,6 +109,7 @@ financial-news-sentiment/
 │   ├── 04_modeling.ipynb
 │   └── 05_explainability.ipynb
 ├── reports/                  # Visualizations and output charts
+├── requirements.txt
 └── README.md
 ```
  
