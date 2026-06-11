@@ -1,0 +1,7 @@
+{
+  "model": "Logistic Regression",
+  "explainability_method": "Coefficient-based word importance",
+  "business_value": "Traders can inspect which words drove bearish/bullish classification",
+  "top_negative_signal": "See reports/top_words_negative.png",
+  "all_classes": "See reports/top_words_all_classes.png"
+}
